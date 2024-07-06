@@ -1,6 +1,6 @@
 - 👋 Olá, sou @EduardoCheron.
-- 👀 Estou interessado ingressar de tecnologia.
-- 🌱 Atualmente estou estudando Java e programação em Nuvem AWS pra garantir meu certificado AWS Practioner.
+- 👀 Estou interessado ingressar na área de tecnologia.
+- 🌱 Atualmente estou me formando em analise e desenvolvimento de sistemas e estudando Java com curso particular do Nélio Alves pela Udemy.
 - 📫 Pode entrar em contato comigo atráves do Gmail: eduardocheron157@gmail.com ou Telefone WPP: (81) 9-9880-4365 .
 
 
